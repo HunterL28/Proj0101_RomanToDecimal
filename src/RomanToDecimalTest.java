@@ -1,5 +1,8 @@
 import static org.junit.Assert.*;
 
+/**
+ * Junit test for RomanToDecimal
+ */
 public class RomanToDecimalTest {
 
     @org.junit.Test

@@ -6,7 +6,6 @@
 public class RomanToDecimal {
     /**
      * Method that converts roman numbers to a decimal value with a few invariants included
-     *
      * @param roman represents a string of roman numerals
      * @return a decimal value
      */
